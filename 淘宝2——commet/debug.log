@@ -1,0 +1,36 @@
+[0105/172536.080:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0105/172536.088:ERROR:exception_snapshot_win.cc(98)] thread ID 30428 not found in process
+[0105/174932.063:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0105/174932.066:ERROR:exception_snapshot_win.cc(98)] thread ID 18448 not found in process
+[0105/175645.847:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0105/175645.851:ERROR:exception_snapshot_win.cc(98)] thread ID 14456 not found in process
+[0105/224528.202:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0105/224528.206:ERROR:exception_snapshot_win.cc(98)] thread ID 33940 not found in process
+[0105/231832.118:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0105/231832.122:ERROR:exception_snapshot_win.cc(98)] thread ID 30280 not found in process
+[0105/231949.809:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0105/231949.811:ERROR:exception_snapshot_win.cc(98)] thread ID 35104 not found in process
+[0105/235752.974:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0105/235752.981:ERROR:exception_snapshot_win.cc(98)] thread ID 34784 not found in process
+[0106/083155.116:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0106/083155.119:ERROR:exception_snapshot_win.cc(98)] thread ID 18444 not found in process
+[0106/093729.864:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0106/093729.869:ERROR:exception_snapshot_win.cc(98)] thread ID 6280 not found in process
+[0106/094545.198:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0106/094545.202:ERROR:exception_snapshot_win.cc(98)] thread ID 27496 not found in process
+[0106/110818.802:ERROR:process_reader_win.cc(151)] SuspendThread: 拒绝访问。 (0x5)
+[0106/110818.805:ERROR:process_reader_win.cc(151)] SuspendThread: 拒绝访问。 (0x5)
+[0106/110818.805:ERROR:process_reader_win.cc(151)] SuspendThread: 拒绝访问。 (0x5)
+[0106/110818.805:ERROR:process_reader_win.cc(151)] SuspendThread: 拒绝访问。 (0x5)
+[0106/110818.805:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0106/110818.808:ERROR:exception_snapshot_win.cc(98)] thread ID 14888 not found in process
+[0106/111055.344:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0106/111055.362:ERROR:exception_snapshot_win.cc(98)] thread ID 4880 not found in process
+[0106/112939.455:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0106/112939.460:ERROR:exception_snapshot_win.cc(98)] thread ID 21896 not found in process
+[0106/124403.493:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0106/124403.495:ERROR:exception_snapshot_win.cc(98)] thread ID 26412 not found in process
+[0106/142535.946:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0106/142535.953:ERROR:exception_snapshot_win.cc(98)] thread ID 12452 not found in process
+[0106/160914.856:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0106/160914.859:ERROR:exception_snapshot_win.cc(98)] thread ID 4720 not found in process
